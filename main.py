@@ -1,3 +1,4 @@
+#PRUEBA GIT
 #ALUMNO: ROY CRISTHOPHER QUISPE PEÑA
 #USO DE LIBRERIAS
 
@@ -5,6 +6,8 @@ import random
 import time
 
 #COLORES
+
+#PRUEBA GIT
 
 BLACK = '\033[30m'
 RED = '\033[31m'
